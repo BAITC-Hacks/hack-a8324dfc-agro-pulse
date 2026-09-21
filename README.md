@@ -23,12 +23,14 @@ Hackathon team repository for Agro-Pulse
 
 ## Структура проекта
 
+```
 .
 ├── main.go
 ├── go.mod
 ├── ok.png
 ├── defect.png
 └── README.md
+```
 
 ## Требования
 
@@ -55,9 +57,10 @@ go run main.go defect.png
 
 ## Тестирование
 
-Изображение| Ожидаемый результат
-ok.png| OK
-defect.png| DEFECT
+| Изображение | Ожидаемый результат |
+| --- | --- |
+| ok.png | OK |
+| defect.png | DEFECT |
 
 ## Примечание
 
